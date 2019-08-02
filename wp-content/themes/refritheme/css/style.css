@@ -1,0 +1,457 @@
+a.nav-link.letter-nav{
+    color:black !important;
+    font-weight: 400 !important; 
+    padding-bottom: 0px;
+} 
+.dropdown-menu.border-Bottom.show {
+    border-bottom: 4px solid #0071bb;
+}
+.section-navbar {
+    border-bottom: 8px solid #009966;
+    padding-left: 100px;
+}
+.section-navbar-we {
+    padding-left: 100px;
+    border-bottom: solid 1px #e3e3e3;
+    
+}
+.hero{
+    border-bottom: 8px solid #99cc66;
+}
+
+ul.navbar-nav {
+    padding-left: 180px;
+}
+
+.section-services{
+    border-bottom: 8px solid #0071bb;
+    padding: 100px;
+
+}
+.circle {
+    background-color: #f7f7f7;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    align-items: center;
+    margin-left: 75px;
+    padding: 30px;
+}
+.circle i{
+    color: #0071bb;
+    font-size: 60px;
+}
+.section-idea {
+    background-color: #2ca9e0;
+    cursor: pointer;
+    border-bottom: solid 8px #003366;
+}
+.hover-circle :hover {
+    background-color: #2090cb;
+}
+.circle i :hover {
+    color: #ffffff;
+    font-size: 60px;
+}
+
+
+
+.intersection h3{
+    font-size: 30px;
+    font-weight: 300;
+    color:white;
+}
+.intersection p {
+    color: white;
+    font-size: 15px;
+}
+.intersection {
+    padding-top: 135px;
+    padding-left: 0;
+    margin-left: 35px;
+    padding-bottom: 166px;
+
+
+    
+}
+.color :hover {
+    background-color: #1a6687;
+    padding: 80px;
+    margin-left: -45px;
+    padding-bottom: 186px;
+    margin-right: -45px;
+    padding-top: 137px;
+    padding-right: 10px;
+    transition: background-color 1s ease-out;
+}
+h3 .letterHover :hover {
+    padding: 15px;
+}
+.intersection :hover {
+    padding-left: 45px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 45px;
+    margin-right: -10px;
+    background-color: #ff000000;
+}
+.color2 :hover {
+    background-color: #1a6687;
+    margin-left: 15px;
+    padding-left: 21px;
+    margin-right: -14px;
+    padding-bottom: 188px;
+    transition: background-color 1s ease-out;
+}
+.color2{
+    padding-bottom: 50px;
+}
+.btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    padding: 7px;
+    margin-left: 2px;
+}
+.lettertwoHover :hover {
+    padding: 0px;
+    margin-left: 0;
+    padding-bottom: 0;
+    margin-right: 10px;
+    background-color: #ff000000;
+}
+  .btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    padding: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.section-img{
+    background-image: url(../img/infonew0011.jpg);
+    height: 495px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: solid 8px #003366;
+}
+.section-services {
+    padding-bottom: 130px;
+    padding-top: 90px;
+}
+.section-question{
+    border-bottom: 8px solid #99cc66;
+}
+.section-question img{
+    width: 652px;
+}
+.letterfonth2{
+    font-family: 'Raleway', sans-serif;
+    color:#003366;
+ }
+ .letterfont-raleway {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    color: #003366;
+    padding-bottom: 5px;
+}
+ .letterfont p{
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #808080;
+ } 
+ .section-followUs{
+     background-color: #2090cb;
+     height: 200px;
+     width: 100%;
+     border-bottom: 8px solid #99cc66;
+ }
+ .letterfonth3{
+     color: white;
+     font-family: 'Raleway', sans-serif;
+     font-size: 26px;
+ }
+ button.btn.btn-primary {
+    color: #fff;
+    background-color: #2a9cd8;
+    border-color: #2a9cd8;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 0px;
+}
+
+button .btn .btn-primary :hover {
+    color: #fff;
+    background-color: #5ec1f6eb;
+    border-color: #5ec1f6eb;
+   
+}
+.carousel {
+
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.footer{
+    background-color: #242424;
+    padding: 100px;
+    padding-bottom: 10px;
+        padding-top: 80px;
+    
+}
+.footer p,li{
+  color: #7e7777e3;
+  list-style: none;
+  font-size: 14px;
+  
+  cursor: pointer;
+  
+}
+.footer h3{
+    color:white;
+    font-size: 14px;
+}
+.footer img{
+    width: 250px;
+    cursor: pointer;
+}
+.footer a{
+    color:white;
+    font-size: 14px;
+    padding-left: 0;
+    margin-left: -15px;
+}
+.line {
+    border-bottom: 1px solid gray;
+    
+  
+}
+/* ----------------------------------------------------------------------------------------------------------------- */
+
+.shadow-hover:hover {
+    -webkit-box-shadow: -1px 12px 25px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 12px 25px -11px rgba(0,0,0,0.75);
+    box-shadow: -1px 12px 25px -11px rgba(0,0,0,0.75);
+   
+}
+.inner-circle {
+  
+    border-radius: 100px;
+    width: 125px;
+    height: 125px;
+    margin: auto;
+    padding: 0;
+    background-color: #2090cb;
+    margin-top: 8px;
+}
+
+
+ .circle-mission:hover {
+ 
+    border: 2px solid #2090cb;
+   transition: border 200ms ease-out; 
+}
+
+.circle-mission {
+    height: 145px;
+    margin: auto;
+    border-radius: 100px;
+    border: 2px solid white;
+    width: 145px;
+}
+.inner-circle, .fa-rocket{
+    font-size: 80px;
+     color: white;
+}
+.inner-circle-services {
+  
+    border-radius: 100px;
+    width: 125px;
+    height: 125px;
+    margin: auto;
+    padding: 0;
+    background-color: #f1f3f3;
+    margin-top: 8px;
+}
+.inner-circle-services:hover{
+    background-color: #2090cb;
+    color: white;
+    transition: background-color 500ms ease-out;
+}
+
+
+ .circle-planification:hover {
+ 
+    border: 2px solid #2090cb;
+    transition: border 500ms ease-out;
+}
+
+.circle-planification {
+    height: 145px;
+    margin: auto;
+    border-radius: 100px;
+    border: 2px solid white;
+    width: 145px;
+}
+
+.inner-circle-services, .fa-rocket{
+    font-size: 80px;
+     color: #2090cb;
+}
+
+
+
+.white{ 
+    color:white;
+}
+.img-hero{
+    background-image: url(../img/box.png); 
+   
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img-lg{
+    position: absolute;
+    width: 160px;
+    bottom: 25px;
+    margin-left: -20px;
+
+}
+/* ---------------------------------------------------------------------------- */
+.gradient-img:hover {
+    background-color: #312a2a00;
+}
+.gradient-img{
+    background-color: #312a2a80;
+    height: 300px;
+    width: 365px;
+    position: relative;
+}
+.item-img img{
+    height: 300px;
+    width: 365px;
+    
+}
+.item-img{
+    position: absolute;
+}
+
+
+
+.letter{
+    font-weight: 200;
+    color:white;
+    font-size:25px;
+}
+.politic{
+    background-color: #2090cb;
+    
+    width: 100%;
+}
+@media (min-width: 1281px) {
+  
+    .hide-on-mobile{
+        display: none;
+       
+       }
+    
+  }
+
+
+@media (max-width: 576px) { 
+    .gradient-img {
+        
+        margin-bottom: 10px;
+    }
+    .circle-mission.row {
+        margin-left: -65px;
+    }
+   
+    .img-hero {
+       
+        background-size: cover;
+    }
+    .img-hero h4{
+       display: none;
+    }
+    .img-lg {
+        position: absolute;
+        width: 75px;
+        bottom: 25px;
+        margin-left: 100px;
+    }
+    .footer{
+        background-color: #242424;
+        padding: 10px;
+        
+    }
+   
+   
+    .footer img{
+        width: 250px;
+        cursor: pointer;
+    }
+    .footer a{
+        color:white;
+        font-size: 14px;
+        padding-left: 0;
+        margin-left: -15px;
+        padding-bottom: 20px;
+    }
+    .carousel {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    
+    .hide-on-desktop{
+        display: none;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+       
+        padding-left: 10px;
+    }
+    ul.navbar-nav {
+        padding-left: 10px;
+    }
+    
+
+    .circle {
+        background-color: #f7f7f7;
+        width: 120px;
+        height: 120px;
+        border-radius: 60px;
+        align-items: center;
+        margin-left: 0px;
+        padding: 30px;
+    }
+    .intersection {
+       
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .section-services {
+      
+        padding-top: 55px;
+        padding-bottom: 0;
+        
+    }
+    .section-img {
+       height: 140px;
+        background-size: contain;
+     }
+     .section-question img {
+        width: 100%;
+        margin-top: -100px;
+    }
+    button.btn.btn-primary {
+        margin-top: -50px;
+        margin-left: 70px;
+    }
+ 
+    
+
+}
+
+
+
